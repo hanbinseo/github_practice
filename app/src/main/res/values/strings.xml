@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">github_practice</string>
-    <string name="greeting">hello world!</string>
+    <string name="greeting">hello world?</string>
 </resources>
